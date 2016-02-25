@@ -1,2 +1,2 @@
 # Bayesian-Modeling
-Expectation Maximization, Variational Inference, Gibbs Sampling - Python
+Hierarchical Naive Bayes Classifier, Expectation Maximization, Variational Inference, Gibbs Sampling - Python
